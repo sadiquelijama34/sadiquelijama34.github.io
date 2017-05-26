@@ -1,5 +1,5 @@
 body {
-    background-image: url("ocean.jpg");
+    background-image: url("ocean clear.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -8,11 +8,16 @@ body {
 }
 
 h1 {
-    color: black;
+    color: white;
     text-align: center;
 }
 
 p {
     font-family: sans-serif;
     font-size: 30px;
+    color: white;
+}
+li {
+  font-size: 30px;
+  color: red;
 }
