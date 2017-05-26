@@ -1,0 +1,18 @@
+body {
+    background-image: url("ocean.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 30px;
+}
